@@ -1,5 +1,4 @@
 # FaceDetetion(HOG+SVM)
-<img src="z5975965490289_94467b312d61239a6991465b90456adf.jpg" width="400">
-<img src="z5975965490289_94467b312d61239a6991465b90456adf.jpg" width="400">
-<img src="z5975965490289_94467b312d61239a6991465b90456adf.jpg" width="400">
+<img src="Screenshot%202025-08-17%20002344.png" width="400">
+<img src="Screenshot%202025-08-17%20002409.png" width="400">
 
